@@ -74,6 +74,7 @@ holiday_hash[season][holiday].each do |holiday, value|
     holiday
   end
 end
+end
 
 
 
