@@ -75,7 +75,7 @@ holiday_hash.collect do |seasons, holidays|
   end
 end.flatten.compact
 end
-end
+
 
 
 
